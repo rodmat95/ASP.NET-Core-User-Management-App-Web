@@ -1,0 +1,64 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Restablecer contraseña · RodMat95</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <div class="card-body">
+                        @if (ViewBag.Restablecido == null)
+                        {
+                            <form class="mx-5"  action="@Url.Action("Restablecer","Inicio")" method="post">
+                                <h5 class="text-center text-black dark:text-white">¿Tienes problemas para iniciar sesión?</h5>
+                                <p class="text-center text-black dark:text-white">Ingresa tu correo electrónico y te enviaremos un enlace para que recuperes el acceso a tu cuenta.</p>
+
+                                <div class="mb-3">
+                                    <!--<label for="correo" class="form-label">Correo</label>-->
+                                    <input type="email" class="form-control font-monospace" id="email" name="email" placeholder="Correo" value="@(ViewBag.Correo !=null ? ViewBag.Correo : "")" required />
+                                </div>
+
+                                @if (ViewBag.Mensaje != null)
+                                {
+                                    <div class="alert alert-danger">
+                                        @ViewBag.Mensaje
+                                    </div>
+                                }
+
+                                <div class="mb-3">
+                                    <div class="d-grid gap-2">
+                                        <button class="btn btn-primary" type="submit">Enviar enlace de inicio de sesión</button>
+                                    </div>
+                                </div>
+                            </form>
+                        }
+                        else
+                        {
+                            <div class="alert alert-success">
+                                <p class="text-center">Su contraseña fue restablecida, le enviamos un mensaje su correo para restablecer.</p>
+                                <a class="btn btn-success" href="@Url.Action("Login","Inicio")">Ingresar</a>
+                            </div>
+                        }
+                    </div>
+                    <div class="card-footer">
+                        <div class="d-grid gap-2">
+                            <a class="btn btn-link text-decoration-none" href="@Url.Action("Login","Inicio")">Volver al inicio de sesión</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

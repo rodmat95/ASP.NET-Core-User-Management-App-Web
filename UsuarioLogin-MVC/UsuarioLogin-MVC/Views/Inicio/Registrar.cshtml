@@ -1,0 +1,82 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registrate · RodMat95</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h1 class="text-center text-black dark:text-white m-5">RodMat95</h1>
+
+                        @if (ViewBag.Creado == null)
+                        {
+                            <form class="mx-5" action="@Url.Action("Registrar","Inicio")" method="post">
+
+                                <div class="mb-3">
+                                    <!--<label for="Nombre" class="form-label">Nombre</label>-->
+                                    <input type="text" class="form-control font-monospace" id="Nombre" name="Nombre" placeholder="Nombre" value="@(ViewBag.Nombre !=null ? ViewBag.Nombre : "")" required />
+                                </div>
+                                <div class="mb-3">
+                                    <!--<label for="Correo" class="form-label">Correo</label>-->
+                                    <input type="email" class="form-control font-monospace" id="email" name="email" placeholder="Correo" value="@(ViewBag.Correo !=null ? ViewBag.Correo : "")" required />
+                                </div>
+                                <div class="mb-3">
+                                    <!--<label for="Clave" class="form-label">Contraseña</label>-->
+                                    <input type="password" class="form-control font-monospace" id="Clave" name="Clave" placeholder="Contraseña" required />
+                                </div>
+                                <div class="mb-3">
+                                    <!--<label for="ConfirmarClave" class="form-label">Confirmar Contraseña</label>-->
+                                    <input type="password" class="form-control font-monospace" id="ConfirmarClave" name="ConfirmarClave" placeholder="Confirmar Contraseña" required />
+                                </div>
+
+                                @if (ViewBag.Mensaje != null)
+                                {
+                                    <div class="alert alert-danger">
+                                        @ViewBag.Mensaje
+                                    </div>
+                                }
+
+                                <div class="mb-3">
+                                    <div class="d-grid gap-2">
+                                        <button class="btn btn-primary" type="submit">Regístrate</button>
+                                    </div>
+                                </div>
+
+                            </form>
+                        }
+                        else
+                        {
+                            <div class="alert alert-success">
+                                <p>@ViewBag.Mensaje</p>
+                                <a class="btn btn-success" href="@Url.Action("Login","Inicio")">Ingresar</a>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <div class="text-center">
+                            <label class="form-label">
+                                ¿Ya tienes una cuenta? <a class="btn btn-link text-decoration-none" href="@Url.Action("Login","Inicio")">Iniciar Sesión</a>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/bootstrap")
+
+</body>
+</html>

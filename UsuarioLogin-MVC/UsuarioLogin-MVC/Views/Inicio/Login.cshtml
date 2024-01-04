@@ -1,0 +1,68 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Iniciar Sesion · RodMat95</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h1 class="text-center text-black dark:text-white m-5">RodMat95</h1>
+
+                        <form class="mx-5" action="@Url.Action("Login","Inicio")" method="post">
+
+                            <div class="mb-3">
+                                <!--<label for="correo" class="form-label">Correo</label>-->
+                                <input type="email" class="form-control font-monospace" id="email" name="email" placeholder="Correo" required />
+                            </div>
+                            <div class="mb-3">
+                                <!--<label for="clave" class="form-label">Contraseña</label>-->
+                                <input type="password" class="form-control font-monospace" id="clave" name="clave" placeholder="Contraseña" required />
+                            </div>
+
+                            @if (ViewBag.Mensaje != null)
+                            {
+                                <div class="alert alert-danger">
+                                    @ViewBag.Mensaje
+                                </div>
+                            }
+
+                            <div class="mb-3">
+                                <div class="d-grid gap-2">
+                                    <button class="btn btn-primary" type="submit">Iniciar Sesión</button>
+                                </div>
+                            </div>
+                            <div class="text-center">
+                                <a class="btn btn-link text-decoration-none" href="@Url.Action("Restablecer","Inicio")">¿Olvidaste tu contraseña?</a>
+                            </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-body">
+                        <div class="text-center">
+                            <label class="form-label">
+                                ¿No tienes una cuenta? <a class="btn btn-link text-decoration-none" href="@Url.Action("Registrar","Inicio")">Regístrate</a>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/bootstrap")
+
+</body>
+</html>

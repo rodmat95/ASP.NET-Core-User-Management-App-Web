@@ -1,0 +1,66 @@
+﻿﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Actualizar contraseña· RodMat95</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h1 class="text-center text-black dark:text-white m-5">RodMat95</h1>
+                        @if (ViewBag.Restablecido == null)
+                        {
+                            <form class="mx-5" action="@Url.Action("Actualizar","Inicio")" method="post">
+                                <input type="hidden" name="token" value="@ViewBag.Token" />
+
+                                <div class="mb-3">
+                                    <!--<label>Ingresar una nueva contraseña</label>-->
+                                    <input type="password" class="form-control font-monospace" name="clave" placeholder="Nueva contraseña" required />
+                                </div>
+                                <div class="mb-3">
+                                    <!--<label>Confirmar contraseña</label>-->
+                                    <input type="password" class="form-control font-monospace" name="confirmarClave" placeholder="Confirmar contraseña" required />
+                                </div>
+
+                                @if (ViewBag.Mensaje != null)
+                                {
+                                    <div class="alert alert-danger">
+                                        @ViewBag.Mensaje
+                                    </div>
+                                }
+
+                                <div class="mb-3">
+                                    <div class="d-grid">
+                                        <button class="btn btn-primary" type="submit">Combiar contraseña</button>
+                                    </div>
+                                </div>
+
+
+                            </form>
+                        }
+                        else
+                        {
+                            <div class="alert alert-success">
+                                <p>Su contraseña fue restablecida, ahora puede ingresar a su cuenta con su nueva clave.</p>
+                                <a class="btn btn-success" href="@Url.Action("Login","Inicio")">Ingresar</a>
+                            </div>
+                        }
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+        @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

@@ -1,0 +1,212 @@
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\obj\Debug\UsuarioLogin-MVC.csproj.AssemblyReference.cache
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\obj\Debug\UsuarioLogin-MVC.csproj.CoreCompileInputs.cache
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\UsuarioLogin-MVC.dll.config
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\UsuarioLogin-MVC.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\UsuarioLogin-MVC.pdb
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csc.exe
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csc.exe.config
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csc.rsp
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csi.exe
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csi.exe.config
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csi.rsp
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.Managed.Core.targets
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.AppContext.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Collections.Immutable.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Console.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Globalization.Calendars.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.IO.Compression.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.IO.FileSystem.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Net.Http.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Net.Sockets.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Reflection.Metadata.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.ValueTuple.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Xml.XmlDocument.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Xml.XPath.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\vbc.exe
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\vbc.exe.config
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\vbc.rsp
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\VBCSCompiler.exe
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\VBCSCompiler.exe.config
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Antlr3.Runtime.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\BouncyCastle.Cryptography.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MailKit.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Microsoft.Web.Infrastructure.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MimeKit.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Newtonsoft.Json.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Buffers.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Memory.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Numerics.Vectors.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Threading.Tasks.Extensions.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Helpers.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Mvc.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Optimization.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Razor.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.Deployment.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.Razor.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\WebGrease.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\BouncyCastle.Cryptography.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MailKit.pdb
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MailKit.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MailKit.dll.config
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MimeKit.pdb
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MimeKit.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MimeKit.dll.config
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Buffers.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Memory.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Numerics.Vectors.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Threading.Tasks.Extensions.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Helpers.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Mvc.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Optimization.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Razor.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.Deployment.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.Razor.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Newtonsoft.Json.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Antlr3.Runtime.pdb
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.Helpers.resources.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.Mvc.resources.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.Optimization.resources.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.Razor.resources.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.WebPages.resources.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\obj\Debug\UsuarioLogin-MVC.csproj.CopyComplete
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\obj\Debug\UsuarioLogin-MVC.dll
+R:\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\obj\Debug\UsuarioLogin-MVC.pdb
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\UsuarioLogin-MVC.dll.config
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\UsuarioLogin-MVC.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\UsuarioLogin-MVC.pdb
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csc.exe
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csc.exe.config
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csc.rsp
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csi.exe
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csi.exe.config
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\csi.rsp
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.Managed.Core.targets
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.AppContext.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Collections.Immutable.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Console.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Globalization.Calendars.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.IO.Compression.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.IO.FileSystem.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Net.Http.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Net.Sockets.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Reflection.Metadata.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.ValueTuple.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Xml.XmlDocument.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Xml.XPath.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\vbc.exe
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\vbc.exe.config
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\vbc.rsp
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\VBCSCompiler.exe
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\roslyn\VBCSCompiler.exe.config
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Antlr3.Runtime.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\BouncyCastle.Cryptography.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MailKit.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Microsoft.Web.Infrastructure.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MimeKit.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Newtonsoft.Json.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Buffers.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Memory.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Numerics.Vectors.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Runtime.CompilerServices.Unsafe.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Threading.Tasks.Extensions.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Helpers.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Mvc.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Optimization.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Razor.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.Deployment.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.Razor.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\WebGrease.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\BouncyCastle.Cryptography.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MailKit.pdb
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MailKit.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MailKit.dll.config
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MimeKit.pdb
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MimeKit.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\MimeKit.dll.config
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Buffers.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Memory.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Numerics.Vectors.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Threading.Tasks.Extensions.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Helpers.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Mvc.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Optimization.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.Razor.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.Deployment.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\System.Web.WebPages.Razor.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Newtonsoft.Json.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Antlr3.Runtime.pdb
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.Helpers.resources.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.Mvc.resources.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.Optimization.resources.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.Razor.resources.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.WebPages.resources.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\obj\Debug\UsuarioLogin-MVC.csproj.AssemblyReference.cache
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\obj\Debug\UsuarioLogin-MVC.csproj.CoreCompileInputs.cache
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\obj\Debug\UsuarioLogin-MVC.csproj.CopyComplete
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\obj\Debug\UsuarioLogin-MVC.dll
+R:\2. Projects\Microsoft VS.Projects\UsuarioLogin-MVC\UsuarioLogin-MVC\obj\Debug\UsuarioLogin-MVC.pdb
